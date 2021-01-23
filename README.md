@@ -1,4 +1,4 @@
 # tombstone-generator
 tombstone generator
 
-https://tombstonegenerator.net
+<a href="https://tombstonegenerator.net">tombstone generator</a>
